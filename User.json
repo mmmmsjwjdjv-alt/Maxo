@@ -1,11 +1,5 @@
 [
     {
-        "device_id": "f9c78e7e6cb7316b",
-        "key": "MAXO",
-        "expirydate": "28-06-2029",
-        "Allowoffline": true
-    },
-    {
         "device_id": "MATIN",
         "key": "8bce7a0c4905fc48",
         "expirydate": "30-06-2029",
