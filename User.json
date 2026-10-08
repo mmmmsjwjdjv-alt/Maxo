@@ -10,11 +10,5 @@
         "key": "MAXO",
         "expirydate": "30-06-2029",
         "Allowoffline": true
-    },
-    {
-        "device_id": "aaf79968e1d216c9",
-        "key": "Mahan",
-        "expirydate": "15-06-2027",
-        "Allowoffline": true
     }
 ]
