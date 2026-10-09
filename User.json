@@ -16,5 +16,11 @@
         "key": "PG sohel",
         "expirydate": "17-01-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "a029ea4e6f642188",
+        "key": "DRAGON",
+        "expirydate": "24-02-2054",
+        "Allowoffline": true
     }
 ]
