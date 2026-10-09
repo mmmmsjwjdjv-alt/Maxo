@@ -16,5 +16,11 @@
         "key": "Mahan",
         "expirydate": "05-07-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "ad38faea3ac44712",
+        "key": "PG sohel",
+        "expirydate": "17-01-2027",
+        "Allowoffline": true
     }
 ]
