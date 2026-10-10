@@ -34,5 +34,11 @@
         "key": "FROOT",
         "expirydate": "17-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "670ec75ecb25e610",
+        "key": "Sdry",
+        "expirydate": "17-10-2026",
+        "Allowoffline": true
     }
 ]
