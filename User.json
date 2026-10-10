@@ -40,5 +40,11 @@
         "key": "Sdry",
         "expirydate": "17-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "90c82095724673c9",
+        "key": "REALLY",
+        "expirydate": "11-10-2026",
+        "Allowoffline": true
     }
 ]
