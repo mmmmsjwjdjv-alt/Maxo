@@ -6,12 +6,6 @@
         "Allowoffline": true
     },
     {
-        "device_id": "f9c78e7e6cb7316b",
-        "key": "Mahan",
-        "expirydate": "05-07-2029",
-        "Allowoffline": true
-    },
-    {
         "device_id": "ad38faea3ac44712",
         "key": "PG sohel",
         "expirydate": "17-01-2027",
@@ -69,12 +63,6 @@
         "device_id": "f6784cd4641f4398",
         "key": "Mr",
         "expirydate": "25-01-2027",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "628ed7e232a03013",
-        "key": "Mahan",
-        "expirydate": "28-01-2027",
         "Allowoffline": true
     }
 ]
