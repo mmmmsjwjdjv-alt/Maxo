@@ -70,5 +70,11 @@
         "key": "Mr",
         "expirydate": "25-01-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "628ed7e232a03013",
+        "key": "Mahan",
+        "expirydate": "28-01-2027",
+        "Allowoffline": true
     }
 ]
