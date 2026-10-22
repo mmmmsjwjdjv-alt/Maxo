@@ -70,5 +70,11 @@
         "key": "DEXTER",
         "expirydate": "16-07-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "875cf38f43a519ec",
+        "key": "Gou",
+        "expirydate": "18-08-2027",
+        "Allowoffline": true
     }
 ]
