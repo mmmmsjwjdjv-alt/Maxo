@@ -52,5 +52,11 @@
         "key": "Gou",
         "expirydate": "18-08-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "dd53c7d02cf98ba3",
+        "key": "RT666RT",
+        "expirydate": "19-08-2027",
+        "Allowoffline": true
     }
 ]
