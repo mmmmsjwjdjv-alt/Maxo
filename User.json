@@ -58,5 +58,11 @@
         "key": "RT666RT",
         "expirydate": "19-08-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "6e7beaec2d4f4625",
+        "key": "SIK",
+        "expirydate": "11-11-2026",
+        "Allowoffline": true
     }
 ]
