@@ -4,5 +4,11 @@
         "key": "RJ-2026-X7K9-M4P2-V8N5",
         "expirydate": "25-07-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "303877e7e022d4d0",
+        "key": "MAXO",
+        "expirydate": "28-11-2026",
+        "Allowoffline": true
     }
 ]
