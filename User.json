@@ -22,11 +22,5 @@
         "key": "SIK",
         "expirydate": "11-11-2026",
         "Allowoffline": true
-    },
-    {
-        "device_id": "ff6fdf96949d5fed",
-        "key": "ASHKAN",
-        "expirydate": "07-11-2026",
-        "Allowoffline": true
     }
 ]
