@@ -34,5 +34,11 @@
         "key": "DRAGON2",
         "expirydate": "26-07-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "70a17932ba307e94",
+        "key": "DRAGON",
+        "expirydate": "26-07-2029",
+        "Allowoffline": true
     }
 ]
