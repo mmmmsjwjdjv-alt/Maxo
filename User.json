@@ -10,5 +10,11 @@
         "key": "MAXO",
         "expirydate": "28-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "6e7beaec2d4f4625",
+        "key": "FFME",
+        "expirydate": "12-11-2026",
+        "Allowoffline": true
     }
 ]
