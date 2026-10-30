@@ -16,5 +16,11 @@
         "key": "FFME",
         "expirydate": "12-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "f9c78e7e6cb7316b",
+        "key": "Mahan",
+        "expirydate": "09-12-2026",
+        "Allowoffline": true
     }
 ]
