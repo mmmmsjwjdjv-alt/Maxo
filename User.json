@@ -46,5 +46,11 @@
         "key": "FTRODI",
         "expirydate": "28-08-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "2641861891b22f6b",
+        "key": "TYRO",
+        "expirydate": "07-11-2026",
+        "Allowoffline": true
     }
 ]
