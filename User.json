@@ -52,5 +52,11 @@
         "key": "TYRO",
         "expirydate": "07-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "740c058ea43d2099",
+        "key": "Ftwavv",
+        "expirydate": "02-09-2027",
+        "Allowoffline": true
     }
 ]
