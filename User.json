@@ -58,5 +58,11 @@
         "key": "Ftwavv",
         "expirydate": "02-09-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "d9457a8164b68c2a",
+        "key": "PILNOV",
+        "expirydate": "11-11-2026",
+        "Allowoffline": true
     }
 ]
