@@ -58,5 +58,11 @@
         "key": "PILNOV",
         "expirydate": "26-10-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "88af148d7883de06",
+        "key": "RODJ",
+        "expirydate": "20-01-2027",
+        "Allowoffline": true
     }
 ]
