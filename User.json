@@ -64,5 +64,11 @@
         "key": "RODJ",
         "expirydate": "20-01-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "70a17932ba307e94",
+        "key": "DRAGON SHOP",
+        "expirydate": "09-08-2029",
+        "Allowoffline": true
     }
 ]
