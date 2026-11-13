@@ -70,5 +70,11 @@
         "key": "DRAGON SHOP",
         "expirydate": "09-08-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "726acf0f9bb10bfd",
+        "key": "DRAGON5",
+        "expirydate": "21-02-2027",
+        "Allowoffline": true
     }
 ]
