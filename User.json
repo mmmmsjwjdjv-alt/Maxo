@@ -82,5 +82,11 @@
         "key": "FFTWIG",
         "expirydate": "25-02-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "ece140ea49acbe58",
+        "key": "FREE",
+        "expirydate": "22-11-2026",
+        "Allowoffline": true
     }
 ]
