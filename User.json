@@ -88,5 +88,11 @@
         "key": "RJ-2026-Q3F8-T6W1-H9C4",
         "expirydate": "30-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "f1077f03749e9bb8",
+        "key": "TWOH",
+        "expirydate": "20-12-2026",
+        "Allowoffline": true
     }
 ]
