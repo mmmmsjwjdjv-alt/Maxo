@@ -88,5 +88,11 @@
         "key": "TRIE",
         "expirydate": "23-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "5d9b52cc9b90700f",
+        "key": "XZ",
+        "expirydate": "18-02-2027",
+        "Allowoffline": true
     }
 ]
