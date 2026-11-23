@@ -100,5 +100,11 @@
         "key": "GWIHS",
         "expirydate": "18-09-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "5907da135deddbce",
+        "key": "GW9HS",
+        "expirydate": "11-05-2029",
+        "Allowoffline": true
     }
 ]
