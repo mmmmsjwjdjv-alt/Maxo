@@ -106,5 +106,11 @@
         "key": "GW9HS",
         "expirydate": "11-05-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "a4f4f7c9362a4b8a",
+        "key": "Woaon",
+        "expirydate": "23-12-2026",
+        "Allowoffline": true
     }
 ]
