@@ -72,12 +72,6 @@
         "Allowoffline": true
     },
     {
-        "device_id": "ece140ea49acbe58",
-        "key": "FREE",
-        "expirydate": "22-11-2026",
-        "Allowoffline": true
-    },
-    {
         "device_id": "e53681ff30f0f81e",
         "key": "TRIE",
         "expirydate": "23-11-2026",
