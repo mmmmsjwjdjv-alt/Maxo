@@ -94,5 +94,11 @@
         "key": "Woaon",
         "expirydate": "23-12-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "c0cf48df79c6377e",
+        "key": "RJ-2026-X9K7-P4M2-ZQ81",
+        "expirydate": "25-12-2026",
+        "Allowoffline": false
     }
 ]
