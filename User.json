@@ -94,5 +94,11 @@
         "key": "RJ-2026-K8W3-N7X5-Q2LP",
         "expirydate": "25-12-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "44139a5194af701a",
+        "key": "RJ-4N8X-PRO-2026",
+        "expirydate": "25-12-2026",
+        "Allowoffline": false
     }
 ]
