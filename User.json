@@ -106,5 +106,11 @@
         "key": "NIGHTWING",
         "expirydate": "22-08-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "8291a304e6195128",
+        "key": "RJ-7X9K-VOID-4826",
+        "expirydate": "01-12-2026",
+        "Allowoffline": false
     }
 ]
