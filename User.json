@@ -100,5 +100,11 @@
         "key": "RJ-4N8X-PRO-2026",
         "expirydate": "25-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2f4bd877ffe51e70",
+        "key": "NIGHTWING",
+        "expirydate": "22-08-2029",
+        "Allowoffline": true
     }
 ]
